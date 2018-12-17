@@ -1,0 +1,5 @@
+1. Event handler for shutdown event in Handler.py
+forget about it no need for now.As long as i close my network before shutting down i will not be caught in the
+middle of a crucial execution point during the shutdown event.
+2. Add comics module.choose site for comics.And use then new implemenation for comics.
+Decide on a efficent platform for the whole project.(Maybe java)But finish first.
